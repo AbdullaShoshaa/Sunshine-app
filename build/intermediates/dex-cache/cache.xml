@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/pre-dexed/debug/classes-70396ea42c39da4ee0c597d4142df35495cdd83a.jar" />
+    </item>
+    <item
+        jar="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/pre-dexed/debug/classes-79fc2b3819c3157f13d6d87b03ff0085d31cc613.jar" />
+    </item>
+    <item
+        jar="/Users/Shoshaa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-dec0832960c7a754e5cd6ac1b1156c112a934966.jar" />
+    </item>
+    <item
+        jar="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Shoshaa/Desktop/Android_Tutorials/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-1ef1f184e8828d8b1c2a4235185bcde23672b4d5.jar" />
+    </item>
+
+</items>

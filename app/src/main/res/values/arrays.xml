@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="units_entries">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </array>
+    <array name="units_entry_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </array>
+</resources>
